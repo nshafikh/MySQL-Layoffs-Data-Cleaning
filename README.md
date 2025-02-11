@@ -27,3 +27,8 @@ This project focuses on **cleaning and standardizing** a dataset containing info
 4. **Optimize Database Structure**
    - Converted date strings into `DATE` type.
    - Dropped unnecessary helper columns.
+
+## Potential Next Steps
+- Perform Exploratory Data Analysis (EDA) on the cleaned dataset. (ALREADY DONE, LINK:)
+- Create visualizations to analyze layoff trends.
+- Apply machine learning to predict layoffs based on company attributes.
