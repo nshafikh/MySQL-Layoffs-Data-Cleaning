@@ -4,7 +4,7 @@
 This project focuses on **cleaning and standardizing** a dataset containing information on company layoffs. The dataset includes details such as company names, locations, industries, funding, and layoff statistics. The goal is to ensure data quality by removing duplicates, handling missing values, standardizing formats, and improving overall data integrity.
 
 ## Skills Demonstrated
-- **Data Cleaning in SQL**: Removing duplicates, handling NULL values, and standardizing data.
+- **Data Cleaning in SQL**: Removing duplicates, handling null values, and standardizing data.
 - **CTE (Common Table Expressions)**: Using `WITH` statements for duplicate detection.
 - **Window Functions**: Applying `ROW_NUMBER()` to identify and remove duplicate records.
 - **String Manipulation**: Cleaning white spaces, correcting inconsistent values.
