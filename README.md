@@ -29,6 +29,6 @@ This project focuses on **cleaning and standardizing** a dataset containing info
    - Dropped unnecessary helper columns.
 
 ## Potential Next Steps
-- Perform Exploratory Data Analysis (EDA) on the cleaned dataset. (ALREADY DONE, LINK:)
+- Perform Exploratory Data Analysis (EDA) on the cleaned dataset. (ALREADY DONE, LINK: https://github.com/nshafikh/MySQL-Layoffs-EDA)
 - Create visualizations to analyze layoff trends.
 - Apply machine learning to predict layoffs based on company attributes.
