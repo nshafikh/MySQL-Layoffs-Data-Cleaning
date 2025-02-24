@@ -29,11 +29,6 @@ This project focuses on **cleaning and standardizing** a dataset containing info
    - Converted date strings into `DATE` type.
    - Dropped unnecessary helper columns.
 
-### Potential Next Steps
-- Perform Exploratory Data Analysis (EDA) on the cleaned dataset. (ALREADY DONE, LINK: https://github.com/nshafikh/MySQL-Layoffs-EDA)
-- Create visualizations to analyze layoff trends.
-- Apply machine learning to predict layoffs based on company attributes.
-
 ## Part 2: EDA
 ### Project Overview:
 This project is a **follow-up** to the **data cleaning** project for the layoffs dataset. The goal here is to conduct **Exploratory Data Analysis (EDA)** to uncover insights about company layoffs, trends, industries most impacted, and more. Various SQL queries were used to explore the dataset, generate summary statistics, and identify key patterns.
@@ -68,9 +63,4 @@ This project is a **follow-up** to the **data cleaning** project for the layoffs
 - Layoffs peaked **in January 2023**, with over **84,000 employees** let go.
 - The **Bay Area** and the **West Coast** were the most affected regions in the U.S.
 - Several companies, especially in **education**, **healthcare**, and **finance**, experienced major layoffs in 2022–2023.
-
-### Potential Next Steps:
-- Create **visualizations** to enhance the analysis and communicate insights.
-- **Predict** layoffs using machine learning based on company characteristics.
-- Investigate **other features** in the dataset, such as funding stages and industries, to explore correlations.
 
